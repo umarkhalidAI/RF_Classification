@@ -1,5 +1,5 @@
 # RF Signal Transformation and Classification using Deep Neural Networks
-Official Repository of the RF Classification Paper accepted in SPIE Defense and Commercial Symposium.
+Official Repository of the RF Classification Paper accepted in SPIE Defense and Commercial Symposium 2022.
 ## Datasets used: 
 1- RadioML2016<br />
 2- RF1024 
